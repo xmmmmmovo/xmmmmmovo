@@ -1,6 +1,6 @@
 ### Welcome! I'm xmmmmmovo 👋
 
-- 🕹 I’m currently waste time on steam
+- 🕹 I’m currently wasting time on steam
 - 🔊 I’m currently learning `operating system` and `data structure`
 - 🤣 Code language: cpp, java, kotlin, go, typescript......
 - 🤔 Now I'm interest in `Database`
