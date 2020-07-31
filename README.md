@@ -1,7 +1,7 @@
 ### Welcome! I'm xmmmmmovo 👋
 
 <a href="https://github.com/xmmmmmovo">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xmmmmmovo&layout=compact&hide=Jupyter%20Notebook,HTML&count_private=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmmmmmovo&show_icons=true&count_private=true&hide=issues&hide_title=true" />
 </a>
 
 - 🕹 I’m currently wasting time on steam
