@@ -7,6 +7,6 @@
 - 🕹 I’m currently wasting time on steam
 - 🔊 I’m currently learning `operating system` and `data structure`
 - 🤣 Code language: cpp, java, kotlin, go, typescript......
-- 🤔 Now I'm interest in `Database`
+- 🤔 Now I'm interest in `Distributed Database`
 - 🤓 Some projects: [FaBao](https://github.com/xmmmmmovo/FaBao) | [ShiJi](https://github.com/xmmmmmovo/ShiJi)
 
