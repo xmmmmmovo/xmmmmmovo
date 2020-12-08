@@ -1,8 +1,7 @@
 ### Welcome! I'm xmmmmmovo 👋
 
-<a align="right" href="https://github.com/xmmmmmovo">
-  <img src="https://github-readme-stats.vercel.app/api?username=xmmmmmovo&show_icons=true&count_private=true&hide=issues&hide_title=true" />
-  [![trophy](https://github-profile-trophy.vercel.app/?username=xmmmmmovo)](https://github.com/xmmmmmovo)
+<a href="https://github.com/xmmmmmovo">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmmmmmovo&show_icons=true&count_private=true&hide=issues&hide_title=true" />
 </a>
 
 - 🕹 I’m currently wasting time on steam
@@ -11,3 +10,4 @@
 - 🤔 Now I'm interest in `Distributed Database`
 - 🤓 Some projects: [FaBao](https://github.com/xmmmmmovo/FaBao) | [ShiJi](https://github.com/xmmmmmovo/ShiJi) | [SmartGreenhouse](https://github.com/xmmmmmovo/SmartGreenhouse) | [GoBilibiliExpHelper](https://github.com/xmmmmmovo/GoBilibiliExpHelper) | [EnglishManFlutter](https://github.com/xmmmmmovo/EnglishManFlutter)
 
+  [![trophy](https://github-profile-trophy.vercel.app/?username=xmmmmmovo)](https://github.com/xmmmmmovo)
