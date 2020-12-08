@@ -4,6 +4,8 @@
   <img align="right" src="https://github-readme-stats.vercel.app/api?username=xmmmmmovo&show_icons=true&count_private=true&hide=issues&hide_title=true" />
 </a>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=xmmmmmovo)](https://github.com/xmmmmmovo)
+
 - 🕹 I’m currently wasting time on steam
 - 🔊 I’m currently learning `operating system` and `data structure`
 - 🤣 Code language: cpp, java, kotlin, go, typescript......
