@@ -9,5 +9,3 @@
 - 🤣 Code language: cpp, java, kotlin, go, typescript......
 - 🤔 Now I'm interest in `Distributed Database`
 - 🤓 Some projects: [FaBao](https://github.com/xmmmmmovo/FaBao) | [ShiJi](https://github.com/xmmmmmovo/ShiJi) | [SmartGreenhouse](https://github.com/xmmmmmovo/SmartGreenhouse) | [GoBilibiliExpHelper](https://github.com/xmmmmmovo/GoBilibiliExpHelper) | [EnglishManFlutter](https://github.com/xmmmmmovo/EnglishManFlutter)
-
-  [![trophy](https://github-profile-trophy.vercel.app/?username=xmmmmmovo)](https://github.com/xmmmmmovo)
