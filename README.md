@@ -17,6 +17,6 @@
     - [EnglishManFlutter - flutter编写的英语学习APP](https://github.com/xmmmmmovo/EnglishManFlutter)
     - [ZhaBotV2 - 娱乐用qq机器人](https://github.com/xmmmmmovo/ZhaBotV2)
   <p align="right"> 
-  visitor count<br>
+  <b>visitor count</b><br>
   <img src="https://profile-counter.glitch.me/xmmmmmovo/count.svg" />
   </p>
