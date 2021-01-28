@@ -20,6 +20,6 @@
     - [Algorithms4thEditionKotlinSolutions - 算法(第四版)kotlin个人实现/部分课后习题/部分提高题](https://github.com/xmmmmmovo/Algorithms4thEditionKotlinSolutions)
     - [DesignPatterns - 图解设计模式kotlin实现/课后习题](https://github.com/xmmmmmovo/DesignPatterns)
   <p align="right"> 
-  Visitor count<br>
+  visitor count<br>
   <img src="https://profile-counter.glitch.me/xmmmmmovo/count.svg" />
   </p>
