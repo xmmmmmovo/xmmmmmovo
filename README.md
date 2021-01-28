@@ -16,9 +16,6 @@
     - [SmartGreenhouse - 智能大棚系统](https://github.com/xmmmmmovo/SmartGreenhouse) 
     - [EnglishManFlutter - flutter编写的英语学习APP](https://github.com/xmmmmmovo/EnglishManFlutter)
     - [ZhaBotV2 - 娱乐用qq机器人](https://github.com/xmmmmmovo/ZhaBotV2)
-  - study projects:
-    - [Algorithms4thEditionKotlinSolutions - 算法(第四版)kotlin个人实现/部分课后习题/部分提高题](https://github.com/xmmmmmovo/Algorithms4thEditionKotlinSolutions)
-    - [DesignPatterns - 图解设计模式kotlin实现/课后习题](https://github.com/xmmmmmovo/DesignPatterns)
   <p align="right"> 
   visitor count<br>
   <img src="https://profile-counter.glitch.me/xmmmmmovo/count.svg" />
