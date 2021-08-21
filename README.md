@@ -16,6 +16,7 @@
 - 🤔 Now I'm interest in `Distributed Database`
 - 🤓 Projects I think interesting: 
     - [ZhaBotV2 - 娱乐用qq机器人](https://github.com/xmmmmmovo/ZhaBotV2)
+    - [ScreepsExcutor - My Screeps AI](https://github.com/xmmmmmovo/ScreepsExcutor)
   <p align="right"> 
   <b>visitor count</b><br>
   <img src="https://profile-counter.glitch.me/xmmmmmovo/count.svg" />
