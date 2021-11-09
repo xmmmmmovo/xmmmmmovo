@@ -14,7 +14,7 @@
  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 - 🤔 Now I'm interest in `Distributed Database`
-- 🤓 Projects I think interesting: 
+- 🤓 Projects I had written: 
     - [ZhaBotV2 - 娱乐用qq机器人](https://github.com/xmmmmmovo/ZhaBotV2)
     - [ScreepsExcutor - My Screeps AI](https://github.com/xmmmmmovo/ScreepsExcutor)
     - [VChat - 多路复用socket为后端的聊天软件](https://github.com/xmmmmmovo/VChat)
