@@ -15,7 +15,7 @@
 
 - 🤔 Now I'm interest in `Computer Graphics`
 - 🤓 Projects I had written: 
-    - [ZhaBotV2 - 娱乐用qq机器人](https://github.com/xmmmmmovo/ZhaBotV2)
+    - [ZhaBotV2 - A qq bot for group entertainment](https://github.com/xmmmmmovo/ZhaBotV2)
     - [ScreepsExcutor - My Screeps AI](https://github.com/xmmmmmovo/ScreepsExcutor)
   <p align="right"> 
   <b>visitor count</b><br>
