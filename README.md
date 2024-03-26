@@ -13,9 +13,7 @@
  <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
 - 🤔 Now I'm interested in `Computer Graphics`
-- 🤓 Projects I had written: 
-    - [ZhaBotV2 - A qq bot for group entertainment](https://github.com/xmmmmmovo/ZhaBotV2)
-    - [ScreepsExcutor - My Screeps AI](https://github.com/xmmmmmovo/ScreepsExcutor)
+
   <p align="right"> 
   <b>visitor count</b><br>
   <img src="https://profile-counter.glitch.me/xmmmmmovo/count.svg" />
