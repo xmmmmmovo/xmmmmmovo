@@ -16,5 +16,5 @@
 
   <p align="right"> 
   <b>visitor count</b><br>
-  <img src="https://profile-counter.glitch.me/xmmmmmovo/count.svg" />
+  <img src="https://profile-counter.deno.dev/xmmmmmovo/count.svg" />
   </p>
